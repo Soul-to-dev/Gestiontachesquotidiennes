@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Gestion taches quotidiennes</string>
+    <string name="app_name">Gestionnaire de tâches</string>
+    <string name="toutes_les_taches_terminees">All tasks completed</string>
+    <string name="beau_travail">Nice work!</string>
 </resources>
